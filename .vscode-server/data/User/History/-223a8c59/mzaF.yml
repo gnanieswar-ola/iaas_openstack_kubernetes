@@ -3,4 +3,4 @@ private_key_path: '/home/ubuntu/privatekey.pem'
 inventory_path: '/tmp/dynamic_inventory.ini'
 default_user: 'ubuntu'
 rke2_version: 'v1.28.5+rke2r1'
-upgrade_required: false
+upgrade_required: true
