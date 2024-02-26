@@ -1,0 +1,15 @@
+from cluster_creation import ClusterCreation
+from ansible_config import AnsibleConfiguration
+import logging
+
+if __name__ == "__main__":
+    logging.basicConfig(level=logging.INFO)
+    
+    # Instantiate ClusterCreation
+    cluster_creator = ClusterCreation('cluster_config.yml')
+
+    # Define cluster name (you might fetch this from somewhere else)
+    cluster_name = "my_cluster"
+
+    # Call create_cluster method
+    cluster_creator.create_cluster(cluster_name)

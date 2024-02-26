@@ -1,0 +1,6 @@
+playbook_path: '/home/ubuntu/rke2.yml'
+private_key_path: '/home/ubuntu/privatekey.pem'
+inventory_path: ''
+default_user: 'ubuntu'
+rke2_version: 'v1.28.3+rke2r1'
+upgrade_required: false

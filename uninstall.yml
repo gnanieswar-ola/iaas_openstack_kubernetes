@@ -1,0 +1,7 @@
+- name: Uninstall RKE2
+  hosts: all
+  become: yes
+  tasks:
+    - name: Run RKE2 uninstall script
+      shell: "/usr/local/bin/rke2-uninstall.sh"
+

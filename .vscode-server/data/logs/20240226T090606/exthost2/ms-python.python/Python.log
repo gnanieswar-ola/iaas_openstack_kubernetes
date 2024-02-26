@@ -1,0 +1,289 @@
+2024-02-26 09:07:55.371 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-02-26 09:07:55.371 [info] Experiment 'pythonREPLSmartSend' is active
+2024-02-26 09:07:55.371 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-02-26 09:07:55.371 [info] Experiment 'pythonTestAdapter' is active
+2024-02-26 09:07:55.371 [info] Default formatter is set to null for workspace /home/ubuntu/rke2_modules
+2024-02-26 09:07:55.372 [info] Test server listening.
+2024-02-26 09:07:55.411 [info] > /usr/bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/interpreterInfo.py
+2024-02-26 09:07:55.434 [info] Python interpreter path: /usr/bin/python3
+2024-02-26 09:07:55.718 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-02-26 09:07:55.718 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-02-26 09:07:55.718 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-02-26 09:07:55.718 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-02-26 09:07:56.939 [info] Starting Pylance language server.
+2024-02-26 09:08:13.191 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/inventory.py
+2024-02-26 09:08:26.991 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 09:18:49.331 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/inventory.py
+2024-02-26 09:19:08.813 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/inventory.py
+2024-02-26 09:19:34.260 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/inventory.py
+2024-02-26 09:19:38.064 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/inventory.py
+2024-02-26 09:20:04.061 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/inventory.py
+2024-02-26 09:20:49.034 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/inventory.py
+2024-02-26 09:20:50.736 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/inventory.py
+2024-02-26 09:21:57.628 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/inventory.py
+2024-02-26 09:25:20.838 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/inventory.py
+2024-02-26 09:25:21.571 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/inventory.py
+2024-02-26 09:26:51.423 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/inventory.py
+2024-02-26 09:28:06.009 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/inventory.py
+2024-02-26 09:28:06.855 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/inventory.py
+2024-02-26 09:28:07.755 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/inventory.py
+2024-02-26 09:28:08.706 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/inventory.py
+2024-02-26 09:29:20.982 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/inventory.py
+2024-02-26 10:06:08.279 [info] Running installed packages checker:  python /home/ubuntu/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/installed_check.py /home/ubuntu/rke2_modules/requirements.txt
+2024-02-26 10:06:08.279 [info] > python ~/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/installed_check.py ./requirements.txt
+2024-02-26 10:06:08.282 [error] Error while getting installed packages check result:
+ [Error: spawn python ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:476:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'spawn python',
+  path: 'python',
+  spawnargs: [
+    '/home/ubuntu/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/installed_check.py',
+    '/home/ubuntu/rke2_modules/requirements.txt'
+  ]
+}
+2024-02-26 10:06:10.642 [info] Running installed packages checker:  python /home/ubuntu/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/installed_check.py /home/ubuntu/rke2_modules/requirements.txt
+2024-02-26 10:06:10.642 [info] > python ~/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/installed_check.py ./requirements.txt
+2024-02-26 10:06:10.643 [error] Error while getting installed packages check result:
+ [Error: spawn python ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:476:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'spawn python',
+  path: 'python',
+  spawnargs: [
+    '/home/ubuntu/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/installed_check.py',
+    '/home/ubuntu/rke2_modules/requirements.txt'
+  ]
+}
+2024-02-26 10:22:09.722 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 10:22:10.622 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 10:22:12.424 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 10:23:23.829 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 10:23:24.512 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 10:23:25.427 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 10:28:08.442 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 10:28:09.237 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 10:28:10.768 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 10:30:15.977 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 10:39:31.081 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 10:39:32.030 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 10:39:32.749 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 11:18:50.723 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 11:18:51.672 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 11:21:56.977 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 11:21:58.473 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 11:25:10.249 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 11:25:16.100 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 11:25:16.979 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 11:25:29.846 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 11:25:48.595 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 11:25:50.079 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 11:25:51.200 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 11:25:52.347 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 11:27:27.385 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 11:27:35.300 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 11:27:36.354 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 11:27:42.850 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 11:27:43.689 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 11:29:05.059 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 11:29:57.456 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 11:30:03.642 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 11:30:04.438 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 11:35:19.552 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 11:35:40.950 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 11:37:42.402 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 11:37:43.016 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 11:41:07.861 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/ansible_config.py
+2024-02-26 11:41:16.358 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/ansible_config.py
+2024-02-26 11:41:17.155 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/ansible_config.py
+2024-02-26 11:41:18.521 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/ansible_config.py
+2024-02-26 11:41:38.629 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 11:41:40.073 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 11:41:50.689 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 11:41:51.805 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 11:41:55.307 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 11:44:58.163 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/ansible_config.py
+2024-02-26 11:44:58.933 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/ansible_config.py
+2024-02-26 11:45:03.028 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/ansible_config.py
+2024-02-26 11:45:22.538 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/ansible_config.py
+2024-02-26 11:45:42.692 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 11:45:46.430 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 11:45:49.015 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 11:45:53.416 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/ansible_config.py
+2024-02-26 11:45:56.083 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 11:45:57.487 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 11:46:36.113 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 11:46:42.284 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 11:46:51.517 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 11:46:52.545 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 11:46:53.541 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 11:48:45.073 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 11:49:46.685 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/ansible_config.py
+2024-02-26 11:56:08.893 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/ansible_config.py
+2024-02-26 11:57:03.244 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 11:57:04.425 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 11:57:05.324 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 11:57:18.694 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 11:57:23.177 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 11:58:26.179 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 11:58:26.978 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 12:06:27.208 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 12:06:41.009 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 12:06:46.010 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 12:07:03.627 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 12:07:14.063 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 12:07:15.717 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 12:07:17.260 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 12:08:49.718 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 12:08:58.992 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 12:08:59.835 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 12:12:32.473 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 12:40:30.548 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 12:40:36.721 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 12:40:37.815 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 12:40:38.480 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 12:40:53.850 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 12:40:54.597 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 12:49:01.225 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/cluster_creation.py
+2024-02-26 12:50:12.869 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 12:50:20.779 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 12:50:21.633 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:15:34.059 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:15:34.690 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:15:35.361 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:16:59.781 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:17:00.963 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:17:08.178 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:17:09.329 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:17:10.558 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:17:18.225 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:17:21.279 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:17:22.006 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:18:21.608 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:19:38.457 [info] Running installed packages checker:  python /home/ubuntu/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/installed_check.py /home/ubuntu/rke2_modules/scripts/requirements.txt
+2024-02-26 13:19:38.458 [info] > python ~/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/installed_check.py ./scripts/requirements.txt
+2024-02-26 13:19:38.460 [error] Error while getting installed packages check result:
+ [Error: spawn python ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:476:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'spawn python',
+  path: 'python',
+  spawnargs: [
+    '/home/ubuntu/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/installed_check.py',
+    '/home/ubuntu/rke2_modules/scripts/requirements.txt'
+  ]
+}
+2024-02-26 13:19:57.056 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:22:12.050 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/pre_install.py
+2024-02-26 13:22:13.047 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/pre_install.py
+2024-02-26 13:22:30.099 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/requirements.py
+2024-02-26 13:22:39.620 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:22:53.317 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:22:55.465 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:22:57.967 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:24:49.497 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:25:36.042 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:25:36.809 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:25:40.392 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:25:58.462 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:26:06.441 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:26:14.459 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:26:18.661 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:26:19.590 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:26:39.456 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:26:41.040 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:28:06.894 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:28:12.843 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:28:23.742 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:28:24.487 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:28:56.088 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:29:07.053 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:29:09.790 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:29:10.886 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:29:40.657 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:30:40.936 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:30:41.854 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:30:57.836 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:30:58.486 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:31:01.105 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:33:46.190 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/modules/pre_install.py
+2024-02-26 13:33:47.063 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/modules/pre_install.py
+2024-02-26 13:33:52.160 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/modules/pre_install.py
+2024-02-26 13:33:55.288 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/modules/pre_install.py
+2024-02-26 13:33:56.049 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/modules/pre_install.py
+2024-02-26 13:33:57.962 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/modules/pre_install.py
+2024-02-26 13:34:35.383 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/modules/requirements.py
+2024-02-26 13:35:38.331 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/modules/pre_install.py
+2024-02-26 13:35:38.981 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/modules/pre_install.py
+2024-02-26 13:35:44.951 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/modules/pre_install.py
+2024-02-26 13:36:29.833 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:36:30.579 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:36:31.395 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:36:33.779 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:36:34.699 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:36:39.581 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:36:40.347 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:36:45.281 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:36:51.130 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:36:56.231 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:37:00.630 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:37:01.381 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:37:06.432 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:37:09.135 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:37:25.279 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:37:42.630 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/modules/cluster_creation.py
+2024-02-26 13:37:43.529 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/modules/cluster_creation.py
+2024-02-26 13:37:54.130 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/modules/cluster_creation.py
+2024-02-26 13:38:56.947 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:38:57.779 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:39:00.178 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:39:52.298 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:42:07.336 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:42:08.451 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:42:10.633 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:42:43.812 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/modules/cluster_creation.py
+2024-02-26 13:43:39.861 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:59:39.269 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:59:40.164 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:59:44.387 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:59:48.417 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:59:50.433 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:59:51.516 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 13:59:57.681 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 14:00:15.970 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/modules/requirements.py
+2024-02-26 14:00:18.769 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/modules/requirements.py
+2024-02-26 14:00:31.066 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/modules/cluster_creation.py
+2024-02-26 14:00:34.584 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/modules/cluster_creation.py
+2024-02-26 14:00:38.417 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/modules/cluster_creation.py
+2024-02-26 14:00:44.333 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/modules/ansible_config.py
+2024-02-26 14:02:39.668 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/modules/ansible_config.py
+2024-02-26 14:02:50.294 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/modules/ansible_config.py
+2024-02-26 14:02:51.683 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/modules/ansible_config.py
+2024-02-26 14:02:53.067 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/modules/ansible_config.py
+2024-02-26 14:02:59.118 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/modules/cluster_creation.py
+2024-02-26 14:03:09.918 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/modules/cluster_creation.py
+2024-02-26 14:03:10.634 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/modules/cluster_creation.py
+2024-02-26 14:04:53.787 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/modules/ansible_config.py
+2024-02-26 14:05:01.240 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/modules/cluster_creation.py
+2024-02-26 14:05:02.070 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/modules/cluster_creation.py
+2024-02-26 14:07:06.971 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/modules/ansible_config.py
+2024-02-26 14:07:09.492 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/modules/ansible_config.py
+2024-02-26 14:07:15.743 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/modules/cluster_creation.py
+2024-02-26 14:07:23.273 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/modules/cluster_creation.py
+2024-02-26 14:07:24.901 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/modules/cluster_creation.py
+2024-02-26 14:07:36.670 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/modules/cluster_creation.py
+2024-02-26 14:07:39.240 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/modules/cluster_creation.py
+2024-02-26 14:08:04.622 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 14:08:05.619 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 14:08:26.674 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 14:08:27.846 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py
+2024-02-26 14:08:31.139 [info] Discover tests for workspace name: rke2_modules - uri: /home/ubuntu/rke2_modules/main.py

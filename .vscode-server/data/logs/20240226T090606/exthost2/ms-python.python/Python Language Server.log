@@ -1,0 +1,33 @@
+2024-02-26 09:07:56.416 [info] (Client) Pylance async client (2024.2.2) started with python extension (2024.0.1)
+2024-02-26 09:07:56.921 [info] [Info  - 9:07:56 AM] (74610) Pylance language server 2024.2.2 (pyright version 1.1.348, commit cfb1de0c) starting
+2024-02-26 09:07:56.921 [info] [Info  - 9:07:56 AM] (74610) Server root directory: file:///home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.2/dist
+2024-02-26 09:07:56.922 [info] [Info  - 9:07:56 AM] (74610) Starting service instance "rke2_modules"
+2024-02-26 09:07:56.957 [info] [Info  - 9:07:56 AM] (74610) Setting pythonPath for service "rke2_modules": "/usr/bin/python3"
+2024-02-26 09:07:56.957 [info] [Info  - 9:07:56 AM] (74610) Setting environmentName for service "rke2_modules": "3.10.12 (global)"
+2024-02-26 09:07:56.983 [info] [Info  - 9:07:56 AM] (74610) Assuming Python version 3.10
+2024-02-26 09:07:57.042 [info] [Info  - 9:07:57 AM] (74610) Found 1 source file
+2024-02-26 09:07:57.451 [info] [Info  - 9:07:57 AM] (74610) Background analysis(1) root directory: file:///home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.2/dist
+2024-02-26 09:07:57.454 [info] [Info  - 9:07:57 AM] (74610) Background analysis(1) started
+2024-02-26 09:07:57.617 [info] [Info  - 9:07:57 AM] (74610) Indexer background runner(2) root directory: file:///home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.2/dist (index)
+2024-02-26 09:07:57.617 [info] [Info  - 9:07:57 AM] (74610) Indexing(2) started
+2024-02-26 09:07:58.210 [info] [Info  - 9:07:58 AM] (74610) scanned(2) 119 files over 1 exec env
+2024-02-26 09:08:00.013 [info] [Info  - 9:08:00 AM] (74610) indexed(2) 80 files over 1 exec env
+2024-02-26 09:08:00.094 [info] [Info  - 9:08:00 AM] (74610) Indexing finished(2).
+2024-02-26 09:08:21.587 [info] [Info  - 9:08:21 AM] (74610) Found 2 source files
+2024-02-26 10:21:55.370 [info] [Info  - 10:21:55 AM] (74610) Found 3 source files
+2024-02-26 11:07:55.994 [info] [Info  - 11:07:55 AM] (74610) Found 3 source files
+2024-02-26 11:22:08.393 [info] [Info  - 11:22:08 AM] (74610) Found 4 source files
+2024-02-26 11:22:12.662 [info] [Info  - 11:22:12 AM] (74610) Found 4 source files
+2024-02-26 11:41:06.116 [info] [Info  - 11:41:06 AM] (74610) Found 5 source files
+2024-02-26 11:45:14.648 [info] [Info  - 11:45:14 AM] (74610) Found 5 source files
+2024-02-26 11:45:35.480 [info] [Info  - 11:45:35 AM] (74610) Found 5 source files
+2024-02-26 13:21:00.893 [info] [Info  - 1:21:00 PM] (74610) Found 3 source files
+2024-02-26 13:21:41.237 [info] [Info  - 1:21:41 PM] (74610) Found 4 source files
+2024-02-26 13:21:45.328 [info] [Info  - 1:21:45 PM] (74610) Found 3 source files
+2024-02-26 13:21:56.063 [info] [Info  - 1:21:56 PM] (74610) Found 4 source files
+2024-02-26 13:22:06.701 [info] [Info  - 1:22:06 PM] (74610) Found 4 source files
+2024-02-26 13:22:24.073 [info] [Info  - 1:22:24 PM] (74610) Found 5 source files
+2024-02-26 13:27:37.973 [info] [Info  - 1:27:37 PM] (74610) Found 5 source files
+2024-02-26 13:27:38.071 [info] [Info  - 1:27:38 PM] (74610) Found 5 source files
+2024-02-26 13:27:44.372 [info] [Info  - 1:27:44 PM] (74610) Found 6 source files
+2024-02-26 13:27:44.717 [info] [Info  - 1:27:44 PM] (74610) Found 5 source files

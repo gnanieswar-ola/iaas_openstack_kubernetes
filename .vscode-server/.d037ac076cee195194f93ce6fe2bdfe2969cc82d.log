@@ -1,0 +1,57 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to 127.0.0.1:45515 (IPv4)
+Extension host agent listening on 45515
+
+[09:06:06] 
+
+
+
+
+[09:06:06] Extension host agent started.
+[09:06:06] Started initializing default profile extensions in extensions installation folder. file:///home/ubuntu/.vscode-server/extensions
+[09:06:06] Completed initializing default profile extensions in extensions installation folder. file:///home/ubuntu/.vscode-server/extensions
+[09:06:06] [127.0.0.1][15bdadec][ManagementConnection] New connection established.
+[09:06:06] [127.0.0.1][49f259e9][ExtensionHostConnection] New connection established.
+[09:06:06] [127.0.0.1][49f259e9][ExtensionHostConnection] <74132> Launched Extension Host Process.
+[09:07:23] [127.0.0.1][15bdadec][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[09:07:23] [127.0.0.1][49f259e9][ExtensionHostConnection] <74132> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[09:07:23] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[09:07:23] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[09:07:25] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[09:07:25] Cancelling previous shutdown timeout
+[09:07:26] [127.0.0.1][4a7ed36c][ManagementConnection] New connection established.
+[09:07:26] [127.0.0.1][fef29cfa][ExtensionHostConnection] New connection established.
+[09:07:26] [127.0.0.1][fef29cfa][ExtensionHostConnection] <74516> Launched Extension Host Process.
+[09:07:46] Getting Manifest... ms-python.python
+[09:07:46] Installing extension: ms-python.python
+[09:07:47] Getting Manifest... ms-python.vscode-pylance
+[09:07:47] Getting Manifest... ms-python.debugpy
+[09:07:47] Installing extension: ms-python.vscode-pylance ms-python.python
+[09:07:47] Installing extension: ms-python.debugpy ms-python.python
+[09:07:47] Extension signature verification failed with error 'ENOENT': ms-python.debugpy
+[09:07:47] Extension signature verification failed with error 'ENOENT': ms-python.python
+[09:07:48] Extracted extension to file:///home/ubuntu/.vscode-server/extensions/ms-python.debugpy-2024.0.0-linux-x64: ms-python.debugpy
+[09:07:48] Renamed to /home/ubuntu/.vscode-server/extensions/ms-python.debugpy-2024.0.0-linux-x64
+[09:07:48] Extracting extension completed. ms-python.debugpy
+[09:07:49] Extracted extension to file:///home/ubuntu/.vscode-server/extensions/ms-python.python-2024.0.1: ms-python.python
+[09:07:49] Renamed to /home/ubuntu/.vscode-server/extensions/ms-python.python-2024.0.1
+[09:07:49] Extracting extension completed. ms-python.python
+[09:07:50] Extension signature verification failed with error 'ENOENT': ms-python.vscode-pylance
+[09:07:53] Extracted extension to file:///home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.2: ms-python.vscode-pylance
+[09:07:53] Renamed to /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.2
+[09:07:53] Extracting extension completed. ms-python.vscode-pylance
+[09:07:53] Extension installed successfully: ms-python.debugpy
+[09:07:53] Extension installed successfully: ms-python.python
+[09:07:53] Extension installed successfully: ms-python.vscode-pylance
+New EH opened, aborting shutdown
+[09:12:25] New EH opened, aborting shutdown

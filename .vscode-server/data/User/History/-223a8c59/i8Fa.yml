@@ -1,0 +1,6 @@
+playbook_path: ''
+private_key_path: '/home/ubuntu/privatekey.pem'
+inventory_path: '/tmp/dynamic_inventory.ini'
+default_user: 'ubuntu'
+rke2_version: ''
+upgrade_required: false

@@ -1,0 +1,42 @@
+2024-02-26 09:06:06.165 [info] 
+
+
+
+
+2024-02-26 09:06:06.165 [info] Extension host agent started.
+2024-02-26 09:06:06.165 [info] Started initializing default profile extensions in extensions installation folder. file:///home/ubuntu/.vscode-server/extensions
+2024-02-26 09:06:06.188 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/ubuntu/.vscode-server/extensions
+2024-02-26 09:06:06.370 [info] [127.0.0.1][15bdadec][ManagementConnection] New connection established.
+2024-02-26 09:06:06.491 [info] [127.0.0.1][49f259e9][ExtensionHostConnection] New connection established.
+2024-02-26 09:06:06.599 [info] [127.0.0.1][49f259e9][ExtensionHostConnection] <74132> Launched Extension Host Process.
+2024-02-26 09:07:23.055 [info] [127.0.0.1][15bdadec][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-26 09:07:23.082 [info] [127.0.0.1][49f259e9][ExtensionHostConnection] <74132> Extension Host Process exited with code: 0, signal: null.
+2024-02-26 09:07:23.082 [info] Cancelling previous shutdown timeout
+2024-02-26 09:07:23.082 [info] Last EH closed, waiting before shutting down
+2024-02-26 09:07:25.840 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2024-02-26 09:07:25.840 [info] Cancelling previous shutdown timeout
+2024-02-26 09:07:26.192 [info] [127.0.0.1][4a7ed36c][ManagementConnection] New connection established.
+2024-02-26 09:07:26.315 [info] [127.0.0.1][fef29cfa][ExtensionHostConnection] New connection established.
+2024-02-26 09:07:26.320 [info] [127.0.0.1][fef29cfa][ExtensionHostConnection] <74516> Launched Extension Host Process.
+2024-02-26 09:07:46.314 [info] Getting Manifest... ms-python.python
+2024-02-26 09:07:46.425 [info] Installing extension: ms-python.python
+2024-02-26 09:07:47.150 [info] Getting Manifest... ms-python.vscode-pylance
+2024-02-26 09:07:47.196 [info] Getting Manifest... ms-python.debugpy
+2024-02-26 09:07:47.261 [info] Installing extension: ms-python.vscode-pylance ms-python.python
+2024-02-26 09:07:47.261 [info] Installing extension: ms-python.debugpy ms-python.python
+2024-02-26 09:07:47.837 [warning] Extension signature verification failed with error 'ENOENT': ms-python.debugpy
+2024-02-26 09:07:47.885 [warning] Extension signature verification failed with error 'ENOENT': ms-python.python
+2024-02-26 09:07:48.680 [info] Extracted extension to file:///home/ubuntu/.vscode-server/extensions/ms-python.debugpy-2024.0.0-linux-x64: ms-python.debugpy
+2024-02-26 09:07:48.690 [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-python.debugpy-2024.0.0-linux-x64
+2024-02-26 09:07:48.693 [info] Extracting extension completed. ms-python.debugpy
+2024-02-26 09:07:49.909 [info] Extracted extension to file:///home/ubuntu/.vscode-server/extensions/ms-python.python-2024.0.1: ms-python.python
+2024-02-26 09:07:49.929 [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-python.python-2024.0.1
+2024-02-26 09:07:49.933 [info] Extracting extension completed. ms-python.python
+2024-02-26 09:07:50.547 [warning] Extension signature verification failed with error 'ENOENT': ms-python.vscode-pylance
+2024-02-26 09:07:53.493 [info] Extracted extension to file:///home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.2: ms-python.vscode-pylance
+2024-02-26 09:07:53.524 [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.2
+2024-02-26 09:07:53.527 [info] Extracting extension completed. ms-python.vscode-pylance
+2024-02-26 09:07:53.533 [info] Extension installed successfully: ms-python.debugpy
+2024-02-26 09:07:53.533 [info] Extension installed successfully: ms-python.python
+2024-02-26 09:07:53.533 [info] Extension installed successfully: ms-python.vscode-pylance
+2024-02-26 09:12:25.842 [info] New EH opened, aborting shutdown
