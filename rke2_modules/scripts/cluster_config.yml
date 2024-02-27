@@ -1,6 +1,6 @@
 playbook_path: './scripts/rke2.yml'
-private_key_path: '/home/ubuntu/privatekey.pem'
+private_key_path: '/tmp/privatekey.pem'
 inventory_path: '/tmp/dynamic_inventory.ini'
-default_user: 'ubuntu'
+default_user: 'ubuntu' ##This is default user(Linux OS = ubuntu 22.04) of the target machines
 rke2_version: 'v1.28.5+rke2r1'
 upgrade_required: false
